@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Quiz No Pager Project</string>
+    <string name="count">count</string>
+    <string name="quiz_countdown">%1$S Min : %2$S Sec</string>
+    <string name="you_won_100_text">You won 100</string>
+    <string name="total_coins_text">"Total Coins: "</string>
+    <string name="continue_playing_text">Continue Playing</string>
+    <string name="q_1">Q.1</string>
+    <string name="option_1">%1$s</string>
+    <string name="next_text">Next</string>
+    <string name="finish_text">Finish</string>
+    <string name="previous_text">Previous</string>
+</resources>

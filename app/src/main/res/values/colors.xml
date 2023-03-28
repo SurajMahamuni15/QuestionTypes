@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="lightGray">#FFF1F6FF</color>
+    <color name="black_custom">#DADADA</color>
+    <color name="lightBlue">#FF3879E9</color>
+    <color name="darkBlue">#FF0E4BB4</color>
+    <color name="lightGrey">#D5D4D4</color>
+    <color name="lightGrey4">#F8F8F8</color>
+    <color name="lightGrey3">#F1F6FF</color>
+    <color name="lightGrey0">#C6C5C5</color>
+    <color name="lightGrey1">#959595</color>
+    <color name="lightGrey2">#494848</color>
+    <color name="duskBlue">#3879E9</color>
+    <color name="YellowBestSeller">#FFBA53</color>
+    <color name="blue_courses_color">#3879E9</color>
+    <color name="light_blue">#F1F6FF</color>
+    <color name="medium_green">#4FA358</color>
+    <color name="tooltip_color">#C9DDFF</color>
+    <color name="opt_bg_color">#F1F6FF</color>
+    <color name="dark_blue">#5D4E8E</color>
+    <color name="light_blue2">#E3DBFF</color>
+    <color name="light_blue3">#B8B3D8</color>
+    <color name="light_yellow">#FFE81C</color>
+    <color name="otp_box_color">#FFF1F6FF</color>
+    <color name="exo_bottom_bar_background">#b0000000</color>
+    <color name="cool_blue">#0091EA</color>
+    <color name="cool_green">#64DD17</color>
+    <color name="cool_pink">#F50057</color>
+    <color name="yellow">#FFD600</color>
+</resources>
